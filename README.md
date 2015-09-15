@@ -1,2 +1,2 @@
 # DatascienceCoursera
-Secons activity for Data Science project
+Second activity for Data Science project
